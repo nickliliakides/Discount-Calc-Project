@@ -1,0 +1,63 @@
+﻿body {
+    color:white;
+
+}
+
+.BgImg {
+    background-image:url('../Img/dessert-menu-2508848_1920.jpg');
+    background-size:cover;
+    background-position:center;
+    background-attachment:fixed;
+}
+
+.container {
+
+    height:100vh;   
+}
+
+h1,h2 {
+    font-family: 'Anton', sans-serif;
+    
+            
+} 
+
+.jumbotron.top {
+
+    padding: 10px 0 10px 0;
+    margin: 20px auto 20px auto;
+    text-align:center;
+    width: 80%;
+    background-color: rgba(59,57,70, 0.6);
+    border-radius:9px; 
+}
+    
+.jumbotron.main {
+
+    padding: 20px 0 20px 50px;
+    margin: 20px auto 20px auto;
+    text-align:left;
+    width: 80%;
+    background-color: rgba(59,57,70, 0.6);
+    border-radius:9px;
+}
+
+.final {
+    width:auto;
+}
+
+.jumbotron.bottom {
+
+    padding:10px 0 10px 0;
+    margin:20px auto 20px auto;
+    text-align:center;
+    width:80%;
+    background-color:rgba(59,57,70, 0.6);
+    border-radius:9px;
+}
+
+.text-left {
+    
+    font-size:18px;
+}
+        
+
